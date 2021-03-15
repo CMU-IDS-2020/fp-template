@@ -17,7 +17,7 @@ Update towards the end of the project.
 ### Proposal
 
 - [ ] The URL at the top of this readme needs to point to your application online. It should also list the names of the team members.
-- [ ] A completed proposal. The contact should submit it as a PDF on Canvas.
+- [ ] A completed [proposal](Proposal.md). The contact should submit it as a PDF on Canvas.
 
 ### Design review
 
@@ -29,4 +29,4 @@ Update towards the end of the project.
 - [ ] All code for the project should be in the repo.
 - [ ] A 5 minute video demonstration.
 - [ ] Update Readme according to Canvas instructions.
-- [ ] A detailed project report. The contact should submit the video and report as a PDF on Canvas.
+- [ ] A detailed [project report](Report.md). The contact should submit the video and report as a PDF on Canvas.
